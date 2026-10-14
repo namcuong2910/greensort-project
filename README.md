@@ -11,7 +11,6 @@
 - `resident-collection-points.html`: Bản đồ điểm thu gom rác & đổi quà.
 - `resident-pickup-request.html`: Đặt lịch thu gom đồ cồng kềnh.
 - `register.html`: Đăng ký tài khoản mới.
-- `figma-preview.html`: Thiết kế Figma & Design System cho SV1.
 
 ## 3 Link nộp bài của SV1:
 1. **Link Figma:** [Figma Link](https://www.figma.com/design/n5rfJtPNwhQhga23ZF7XzT/Untitled?t=BNSIzaSplVz2V0hn-1)
