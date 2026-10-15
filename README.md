@@ -15,5 +15,5 @@
 ## 3 Link nộp bài của SV1:
 1. **Link Figma:** [Figma Link](https://www.figma.com/design/n5rfJtPNwhQhga23ZF7XzT/Untitled?node-id=0-1&t=54I3Lal3o1mqmB1a-1)
 2. **Link GitHub cá nhân:** [GitHub Repo SV1](https://github.com/namcuong2910/greensort-project)
-3. **Link Video OBS 3 phút:** [Video OBS](https://youtu.be/_z7N60KSasU)
+3. **Link Video OBS 3 phút:** [Video OBS](https://www.youtube.com/watch?v=9XWqX_5A60w&list=PLG6hlrOzpKwM)
 
